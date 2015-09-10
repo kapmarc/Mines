@@ -19,6 +19,7 @@ Les fichiers qui servent à construire les planches de cartes sont les suivants:
 - Monstres.ods
 - Events.ods
 - Drops.ods
+
 Ces fichiers contiennent 3 pages et 1 macro. La première page décrit chaque carte, la seconde page reproduit chaque ligne de la première page un nombre de fois égal à ce qui est écrit dans la colonne "nombre de carte" de la première page. La troisième page contient les planches de cartes.
 Les planches utilisent les fonctions INDIRECT et ADRESSE pour récupérer les informations sur la page 2. Chaque carte contient un petit nombre dans la première cellule en haut à gauche pour indiquer la ligne correspondante dans la page 2.
 Pour changer une carte, il suffit de modifier la page 1 et d'executer la macro associée au fichier pour mettre à jour la page 2. La page 3 se met à jour automatiquement grâce à l'utilisation des formules.
