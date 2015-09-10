@@ -26,3 +26,6 @@ Pour changer une carte, il suffit de modifier la page 1 et d'executer la macro a
 
 ## Assemblage
 Il suffit d'imprimer les fichiers pdf. Les marges des fichiers ods sont calculées pour correspondre aux marges des planches de dos (pour une impression recto-verso).
+
+## License
+Le materiel est sous license CC BY-NC 4.0 résumée ici: https://creativecommons.org/licenses/by-nc/4.0/
