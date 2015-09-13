@@ -26,6 +26,7 @@ Pour changer une carte, il suffit de modifier la page 1 et d'executer la macro a
 
 ## Assemblage
 Il suffit d'imprimer les fichiers pdf. Les marges des fichiers ods sont calculées pour correspondre aux marges des planches de dos (pour une impression recto-verso).
+Le jeur nécessite un peu de matériel supplémentaire: Des jetons de couleurs de diamêtre 2,5cm pour marquer les caractéristiques et diverses actions (FA, camouflage, etc...), et des cubes de 1cm de côté pour marquer les pv des monstres, les px et les compétences acquises.
 
 ## License
 Le materiel est sous license CC BY-NC 4.0 résumée ici: https://creativecommons.org/licenses/by-nc/4.0/
