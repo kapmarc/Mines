@@ -75,3 +75,6 @@ if ((  "$1" == "Monstres" ))  || (( "$1" == "Tout" ));then
   gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=./output/MonstresRV.pdf $FL
   rm ./output/extract*.pdf
 fi
+
+cp ./Perso/*.pdf ./output/
+cp ./Plateaux/*.pdf ./output/
