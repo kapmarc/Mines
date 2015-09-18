@@ -1,4 +1,4 @@
-# Les Mines du roi Goblin
+# Les Mines du roi Gobelin
 Un jeu pour 2 à 4 joueurs.
 
 ## Résumé du jeu
