@@ -26,6 +26,8 @@ Pour changer une carte, il suffit de modifier la page 1 et d'executer la macro a
 
 ## Assemblage
 Il suffit d'imprimer les fichiers pdf. Les marges des fichiers ods sont calculées pour correspondre aux marges des planches de dos (pour une impression recto-verso).
+Il y a égelement un script bash appelé CartesRV.sh qui permet de créer les fichiers à imprimer. En particulier, le script va prendre 
+Il y a égelement un script bash appelé CartesRV.sh qui permet de créer les fichiers à imprimer. En particulier, le script va directement créer des fichiers pdf recto-verso qu'il suffira d'imprimer. L'ensemble des fichiers est placé dans le répertoire output.
 Le jeur nécessite un peu de matériel supplémentaire: Des jetons de couleurs de diamêtre 2,5cm pour marquer les caractéristiques et diverses actions (FA, camouflage, etc...), et des cubes de 1cm de côté pour marquer les pv des monstres, les px et les compétences acquises.
 
 ## License
