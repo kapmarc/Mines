@@ -30,10 +30,10 @@
      inkscape:current-layer="layer1"
      id="namedview2989"
      showgrid="false"
-     inkscape:window-width="1436"
-     inkscape:window-height="856"
+     inkscape:window-width="1276"
+     inkscape:window-height="755"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      units="mm"
      width="210mm">
@@ -1274,7 +1274,7 @@
              height="33.23402"
              width="249.60869"
              id="rect4563" /></flowRegion><flowPara
-           id="flowPara4565">Déplacement Eclair (1)</flowPara></flowRoot>      <text
+           id="flowPara4565">Déplacement Eclair (2)</flowPara></flowRoot>      <text
          sodipodi:linespacing="125%"
          id="text4585"
          y="489.55225"
@@ -1316,7 +1316,7 @@
              height="32.526913"
              width="246.78027"
              id="rect4571" /></flowRegion><flowPara
-           id="flowPara4573">Course (0)</flowPara></flowRoot>      <text
+           id="flowPara4573">Course (2)</flowPara></flowRoot>      <text
          xml:space="preserve"
          style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="298.12958"
@@ -1850,7 +1850,7 @@
          y="740.68604">Potion</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="-470.60291"
        y="740.68604"
        id="text3624"
@@ -1859,7 +1859,7 @@
          sodipodi:role="line"
          id="tspan3626"
          x="-470.60291"
-         y="740.68604">Tableau de chasse</tspan></text>
+         y="740.68604">Cartes réservées</tspan></text>
     <path
        transform="matrix(1.452175,0,0,1.452175,-175.39175,288.93103)"
        d="m 410,74.094482 a 30,30 0 0 1 -30,29.999998 30,30 0 0 1 -30,-29.999998 30,30 0 0 1 30,-30 30,30 0 0 1 30,30 z"
